@@ -1,2 +1,9 @@
-# Customer Churn Prediction
-# Customer-Churn-Prediction
+customer-churn-prediction/
+├── data/
+│   └── raw/
+├── notebooks/
+├── src/
+├── artifacts/
+├── requirements.txt
+├── README.md
+└── .gitignore
